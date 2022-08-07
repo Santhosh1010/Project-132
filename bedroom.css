@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+margin-bottom: 20px;
+}
+
+#how_many
+{
+    font-size: 15px;
+}
+
+#back
+{
+    font-size: 15px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
